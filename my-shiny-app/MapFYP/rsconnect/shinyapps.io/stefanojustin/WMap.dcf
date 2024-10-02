@@ -1,0 +1,12 @@
+name: WMap
+title: WMap
+username: stefanojustin
+account: stefanojustin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12884576
+bundleId: 9167802
+url: https://stefanojustin.shinyapps.io/WMap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

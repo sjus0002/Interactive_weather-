@@ -1,0 +1,12 @@
+name: Line
+title: Line
+username: stefanojustin
+account: stefanojustin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12884534
+bundleId: 9167789
+url: https://stefanojustin.shinyapps.io/Line/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
